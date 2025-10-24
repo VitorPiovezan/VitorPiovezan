@@ -40,9 +40,14 @@ I focus on creating clean, efficient interfaces and robust architectures that de
 
 ### 📫 Get in Touch
 
-- 📧 Email: [vitor.piovezan7@gmail.com](mailto:vitor.piovezan7@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vitor-piovezan-6a65351aa](https://www.linkedin.com/in/vitor-piovezan-6a65351aa)
-
----
-
-💬 *“Great products are built where design, engineering, and empathy meet.”*
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-piovezan-6a65351aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="http://instagram.com/vitor_piovezan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:vitor.piovezan7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>                                                                                                   
+</p>
