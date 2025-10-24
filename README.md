@@ -33,11 +33,27 @@ Dev Front-end com experiencia em React.js e React-Native usando TypeScript.
 <br>
 <br>
   
-   <p align="center"> Entre em contato comigo por aqui 👇🏾</p>
+## :link: Connect with me!
 <p align="center">
-   <a href="https://www.linkedin.com/in/vitor-piovezan-6a65351aa/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
-   <a href="https://www.instagram.com/vitor_piovezan/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
-   <a href="mailto: vitor.piovezan7@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
-</p><p>
-
+  <a href="https://www.linkedin.com/in/vitorpiovezan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="http://instagram.com/vitor_piovezan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:vitor.piovezan7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>                                                                                                   
 </p>
+
+## :chart_with_upwards_trend: GitHub Stats:
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorPiovezan&show_icons=true&locale=en&layout=compact&count_private=true" alt="VitorPiiovezan" />&nbsp;
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorPiovezan&show_icons=true&locale=en&count_private=true" alt="VitorPiovezan" /></p> -->
+
+## :trophy: GitHub Trophies:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VitorPiovezan&margin-w=15&margin-h=15&row=2&column=3&theme=onedark" alt="VitorPiovezan" /></a> </p>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=VitorPiovezan&label=Profile%20views&color=0e75b6&style=plastic" alt="VitorPiovezan" /> </p>
