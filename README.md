@@ -196,10 +196,6 @@ Watch and drive your real browser with AI agents (MCP + CDP daemon, live cockpit
   <img src="https://streak-stats.demolab.com?user=VitorPiovezan&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorPiovezan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
 ## 🎮 Side projects
@@ -212,7 +208,7 @@ Watch and drive your real browser with AI agents (MCP + CDP daemon, live cockpit
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/VitorPiovezan/VitorPiovezan/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 <p align="center">
